@@ -1,2 +1,2 @@
 # model-based-deep-learning-on-RSMA-QoS
-comming soon!
+code has released on https://github.com/SunLab-UGA/MBDL-on-RSMA-QoS
